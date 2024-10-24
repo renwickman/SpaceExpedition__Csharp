@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.exe
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.dll
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\bin\Debug\net8.0\SpaceExpedition.pdb
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.dll
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\obj\Debug\net8.0\refint\SpaceExpedition.dll
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.pdb
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\obj\Debug\net8.0\SpaceExpedition.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\SpaceExpedition\obj\Debug\net8.0\ref\SpaceExpedition.dll
